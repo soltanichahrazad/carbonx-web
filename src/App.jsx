@@ -137,7 +137,7 @@ const App = () => {
               <div className="w-12 h-12 rounded-full border-2 border-[#050505] bg-blue-600 flex items-center justify-center text-[10px] text-white font-black shadow-lg shadow-blue-500/20">+17.6k</div>
             </div>
             <div>
-              <p className="text-[14px] font-black text-white">Trusted by over 17,605 members</p>
+              <p className="text-[14px] font-black text-white">Trusted by over 6,615 members</p>
               <div className="flex items-center gap-1 mt-1">
                 <span className="text-yellow-400 text-sm">★★★★★</span>
                 <span className="text-[12px] text-gray-500 font-bold">(4.9 rating)</span>
