@@ -29,7 +29,7 @@ const App = () => {
     {
       title: "Apex Legends",
       desc: "Apex Legends Tool",
-      price: "$9999.99",
+      price: "$9.99",
       color: "#db2777",
       imgSrc: "/apex.jpg",
       imgText: "BRAWLHALLA",
