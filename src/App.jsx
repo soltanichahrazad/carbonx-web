@@ -134,7 +134,7 @@ const App = () => {
         <div className="flex items-center gap-5 bg-white/[0.04] backdrop-blur-xl p-4 pr-8 rounded-[2rem] border border-white/10 mb-28 shadow-2xl">
             <div className="flex -space-x-4">
               {[1, 2, 3, 4].map(i => <div key={i} className="w-12 h-12 rounded-full border-2 border-[#050505] bg-gradient-to-br from-gray-700 to-gray-900 flex items-center justify-center text-xs">👤</div>)}
-              <div className="w-12 h-12 rounded-full border-2 border-[#050505] bg-blue-600 flex items-center justify-center text-[10px] text-white font-black shadow-lg shadow-blue-500/20">+17.6k</div>
+              <div className="w-12 h-12 rounded-full border-2 border-[#050505] bg-blue-600 flex items-center justify-center text-[10px] text-white font-black shadow-lg shadow-blue-500/20">+1.6k</div>
             </div>
             <div>
               <p className="text-[14px] font-black text-white">Trusted by over 6,615 members</p>
