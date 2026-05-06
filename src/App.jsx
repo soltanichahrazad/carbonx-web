@@ -124,7 +124,7 @@ const App = () => {
         <h1 className="text-6xl md:text-8xl font-black mb-2 tracking-tighter text-center">
           <span className="bg-gradient-to-r from-[#ff8aaf] via-[#d4bcfd] to-[#8ebff9] bg-clip-text text-transparent italic">Dominate The Field</span>
         </h1>
-        <h2 className="text-5xl md:text-7xl font-black mb-8 text-white tracking-tighter text-center drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)]">With CarbonX</h2>
+        <h2 className="text-5xl md:text-7xl font-black mb-8 text-white tracking-tighter text-center drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)]">With Mongo</h2>
         
         <p className="text-gray-400 max-w-2xl text-center text-lg mb-12 font-bold opacity-90 tracking-tight">
           Advanced gaming tools designed for competitive edge and peak performance
